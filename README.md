@@ -41,7 +41,7 @@ This project aims to demonstrate the application of machine learning techniques 
 
 ## Usage
 
-1.  Open the `Bitcoin_Price_Prediction.ipynb` Jupyter Notebook.
+1.  Open the `Bitcoin Homework - Jose Ayala.ipynb` Jupyter Notebook.
 2.  Run the cells sequentially to execute the data preprocessing, model training, and prediction steps.
 3.  The predicted prices for December 2017 will be saved to `price_predictions_ridge.csv`.
 4.  The notebook also generates plots and SHAP analysis to visualize and explain the model's predictions.
