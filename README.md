@@ -13,7 +13,7 @@ This project aims to demonstrate the application of machine learning techniques 
 * `OccChainletsInTime.txt`: Occurrence chainlet data from 2009 to 2018.
 * `Bitcoin_Price_Prediction.ipynb`: Jupyter Notebook containing the code for data preprocessing, model training, prediction, and evaluation.
 * `price_predictions_ridge.csv`: CSV file containing the predicted Bitcoin prices for December 2017.
-* `report.md` : Report detailing the project.
+* `Bitcoin Price Prediction.pdf` : Report detailing the project.
 
 ## Dependencies
 
